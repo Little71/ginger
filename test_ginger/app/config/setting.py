@@ -1,0 +1,2 @@
+DEBUG = True
+TOKEN_EXPIRATION = 30 * 24 * 60 * 60  # 单位秒 30天
